@@ -1,4 +1,4 @@
-# Über mich
+# About me
 
 With over 10 years of experience in event management, where I successfully worked in project management, team leadership and customer relationship management, I am now in the 5th semester of my business informatics studies. My focus is on IT security, controlling and databases, where I would like to deepen my knowledge, as these topics clearly reflect my interests.
 
@@ -11,7 +11,7 @@ During my professional career, I have realized how important technological and s
 
 I am looking forward to the opportunity to use my previous experience and expand my knowledge in new and exciting areas.
 
-## Aktuelle Projekte
+## Current projects
 
 At the moment I want to acquire the appropriate coding skills. I am currently working on the following projects. As soon as I think they are worthy, I will switch them to public.
 
