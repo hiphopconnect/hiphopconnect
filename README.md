@@ -1,25 +1,36 @@
-# About me
+# About Me
 
-With over 10 years of experience in event management, where I successfully worked in project management, team leadership and customer relationship management, I am now in the 5th semester of my business informatics studies. My focus is on IT security, controlling and databases, where I would like to deepen my knowledge, as these topics clearly reflect my interests.
+After gaining one year of experience in driver development using TypeScript and working on my own software projects ([see my GitHub profile](https://github.com/hiphopconnect)), I am now in my 6th semester of Business Informatics.  
+My main focus is on **IT security**, as I am passionate about the increasing importance of security technologies for businesses and want to actively help shape these developments.
 
-During my professional career, I have realized how important technological and security-related aspects are for the success of a company. This realization motivated me to start my studies in Business Informatics and explore new avenues. I am open to different developments in IT and look forward to specializing further in areas such as IT security and databases.
+Through my previous professional experience, I bring strong business knowledge, project management skills, and the ability to work effectively in teams. I aim to combine this expertise with my new technical skills to support companies both strategically and technically.
 
-## My Goals
-- To build up expertise in IT security, controlling and databases
-- Open to new challenges and opportunities to develop in different areas of IT
-- In the long term, I am aiming for a position with management responsibility in which I can act both strategically and operationally
+## Goals
 
-I am looking forward to the opportunity to use my previous experience and expand my knowledge in new and exciting areas.
+- Build solid expertise in IT security
+- Combine technical skills with business understanding
+- Stay open to new challenges and developments in IT
+- Long-term goal: Take on strategic and operational leadership responsibilities
 
-## Current projects
+## Current Projects
 
-At the moment I want to acquire the appropriate coding skills. I am currently working on the following projects. As soon as I think they are worthy, I will switch them to public.
+I am currently focused on strengthening my practical skills in software development and IT security. Some of my current projects include:
 
-* **HabitTracker**: Why another HabitTracker? Well, I have tried a lot of them. The ones that exist were not clean enough for me or annoy me with too many functions or are simply too expensive. I currently have a Swift version. What bothers me about Apple is that the widget that I think is really important should be interactive. That's why I'll probably switch from my cell phone to Android and try Flutter.
+- **[ASL Detection](https://github.com/hiphopconnect/asl_detection)**  
+  Developing software for sign language recognition using machine learning, OpenCV, and TensorFlow.  
+  Goal: Translate sign language into written text.
 
-* **Music Collection Software**: I used to have paid software for this and then thought I could do it myself. The paid software can scan most CDs and vinyls via barcode scan. But not all of my albums have no entry in the corresponding libraries. 
-  That's why I'm in the process of developing my own Swift and Flutter version, where you can enter the albums by hand and the most important thing. The app costs me nothing and I'm gaining experience. Furthermore, it is standalone and can also be used in basements where there is no network. 
+- **[VerleihNix](https://github.com/hiphopconnect/VerleihNix)**  
+  Minimalist local inventory and lending management software without external servers or cloud services.
 
-* **My first website**: With email address and contact form and some subpages.
+- **HabitTracker**  
+  A simple and clean habit-tracking app focused on core features. Initially developed in Swift, planned migration to Flutter for better interactivity and cross-platform support.
 
-* **Two more projects**: I have two more projects in the pipeline, but I don't want to name them yet.
+- **Music Collection Software**  
+  An offline app for managing a personal music collection, independent of online databases.
+
+- **First Personal Website**  
+  Building a personal website with email functionality, a contact form, and several subpages.
+
+- **Further Projects**  
+  Two additional projects are currently in planning. More details coming soon.
