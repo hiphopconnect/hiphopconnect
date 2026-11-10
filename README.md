@@ -1,33 +1,21 @@
 # About Me
 
-I'm a **Business Informatics (B.Sc.)** student in my 7th semester at TH Augsburg, working as a **Working Student in IT Security**.
+IT security is my main focus, software development my second.
 
-My focus is on **Offensive Security** – particularly Penetration Testing and Red Teaming. I'm an active CTF player (Flare-On, hack.lu CTF) and sharpen my skills on TryHackMe.
+I work in IT security. My interest lies on both sides: attacking systems to find weaknesses,
+and detecting and defending against attacks.
 
-## Current Focus
+## Focus
 
-🎓 **Bachelor Thesis:** Automated Vulnerability Analysis and Remediation Recommendations for Local Container and VM Instances (Python, Docker SDK, NVD/OSV APIs)
-
-🛡️ **Work:** Developing security tools for automated vulnerability analysis
-
-🚩 **CTF:** Active participant in Flare-On, hack.lu CTF, and TryHackMe challenges
+- **IT Security:** penetration testing, red teaming, blue teaming, vulnerability management
+- **Software Development:** apps and software in general
 
 ## Goals
 
-- Specialize in **Penetration Testing & Red Teaming**
-- Pursue certifications: **OSCP**
-- Combine technical security skills with business understanding
+- Certifications: **OSCP+**, **OSEP**, **LPIC-1**, **LPIC-2**
+- Gain hands-on experience in **Red Team** and **Blue Team** operations
+- Deepen **penetration testing** and hacking skills
 
-## Projects
+## Contact
 
-- **[MusicUp](https://github.com/hiphopconnect/musicup)** – Flutter app for local music collection management
-- **[ASL Detection](https://github.com/hiphopconnect/asl_detection)** – Sign language recognition with ML, OpenCV, TensorFlow
-- **[VerleihNix](https://github.com/hiphopconnect/VerleihNix)** – Minimalist local inventory & lending management
-
-## Tech Stack
-
-`Python` `TypeScript` `Java` `Flutter/Dart` `Bash` `Docker` `Linux`
-
-## Connect
-
-📧 michael.milke@posteo.de
+michael.milke@posteo.de
